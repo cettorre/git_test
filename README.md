@@ -38,11 +38,36 @@ https://github.com/cettorre/AndroidSQLiteDB
 
 
 
-
-
-
 <p align="center">
  
  <img src="/img/ej2info.jpg" width="350"/>
+
+</p>
+
+
+
+
+<h2> Dice Game Layered Pattern </h2>
+https://github.com/cettorre/AndroidDiceGameLayeredPattern
+<p align="center">
+
+<img src="/img/dicegame/main.jpg" width="350"/>
+  
+<img src="/img/dicegame/dashboard.jpg" width="350"/>
+
+</p>
+
+<p align="center">
+
+<img src="/img/dicegame/game.jpg" width="350"/>
+  
+<img src="/img/dicegame/score.jpg" width="350"/>
+
+</p>
+
+<p align="center">
+
+<img src="/img/dicegame/stats.jpg" width="350"/>
+  
 
 </p>
